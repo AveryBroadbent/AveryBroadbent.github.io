@@ -11,7 +11,7 @@ drewbroadbent@gmail.com || 385-275-6304 || [corviscape.itch.io](https://corvisca
 
 ### Skill Showcases
 
-Looking for something specific? Check out one of my showcases, where I go over my work and talk a bit about the process
+Looking for something specific? Check out one of my showcases, where I go over my work and talk a bit about my process.
 
 *[Audio Design Showcase](audio.md)*
 
