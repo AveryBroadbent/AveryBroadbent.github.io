@@ -4,6 +4,7 @@
 
 
 Each audio file provided is the same used in the final project
+
 ## **[28 Leicester Square](https://store.steampowered.com/app/4493220/28_Leicester_Square/)**
 (August 2025 - April 2026)
 
@@ -148,3 +149,45 @@ We needed a way to signify when a door was unlocked by a puzzle's completion, so
 <audio controls preload="auto">
     <source src="/sfx/LS/GearsUnlock.wav" type="audio/wav">
 </audio>
+
+## [SPIN-MECH FURY](https://corviscape.itch.io/spinmechfury)
+(July 2026)
+
+As this was a weeklong game jam project, sound was put off until the last few hours as we were more focused on gameplay for a majority of development. On that front, I generated some simple sounds using while [Jayliriah](https://jayliriah.itch.io/) handled music. Our game was supposed to feel shovel-ware-ish, so I found it fit to just make everything synth based.
+
+With that said, there's not much to really show off (only about 10 sounds in total, with a few left unused). So enjoy the following collection. (Light audio warning as these are basically raw samples that were balanced in engine)
+
+`Charge.wav`<br>
+<audio controls preload="auto">
+    <source src="/sfx/SM/Charge.wav" type="audio/wav">
+</audio>
+
+`DASH.wav`<br>
+<audio controls preload="auto">
+    <source src="/sfx/SM/DASH.wav" type="audio/wav">
+</audio>
+
+`Jumppad.wav`<br>
+<audio controls preload="auto">
+    <source src="/sfx/SM/Jumppad.wav" type="audio/wav">
+</audio>
+
+`Bumper.wav`<br>
+<audio controls preload="auto">
+    <source src="/sfx/SM/Bumper.wav" type="audio/wav">
+</audio>
+
+`Explode.wav`<br>
+<audio controls preload="auto">
+    <source src="/sfx/SM/Explode.wav" type="audio/wav">
+</audio>
+
+## Other projects?
+
+While the walk down memory lane would be fun, any projects pre-capstone (Before Leicester) aren't up to the same standard of quality I hold myself to now, and as such I don't see it fit to include them here.
+
+I am also actively working on a particular, larger scale project in my freetime. While sound hasn't been a focus for them yet, it will be soon, and I will likely include some of those samples here.
+
+
+
+

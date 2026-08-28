@@ -11,14 +11,12 @@
             "id": "de43dcf2acea7822",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "audio",
               "state": {
-                "file": "docs/audio.md",
-                "mode": "source",
-                "source": false
+                "file": "docs/sfx/LS/DoorOpen2.wav"
               },
-              "icon": "lucide-file",
-              "title": "audio"
+              "icon": "lucide-file-audio",
+              "title": "DoorOpen2"
             }
           }
         ]
@@ -188,21 +186,20 @@
   },
   "active": "de43dcf2acea7822",
   "lastOpenFiles": [
+    "docs/audio.md",
+    "docs/engineering.md",
+    "docs/music.md",
+    "docs/sfx/SM/Bumper.wav",
+    "docs/sfx/SM/Charge.wav",
+    "docs/sfx/SM/DASH.wav",
+    "docs/sfx/SM/Explode.wav",
+    "docs/sfx/SM/Jumppad.wav",
+    "docs/sfx/SM",
     "docs/sfx/LS/GearsUnlock.wav",
     "docs/sfx/LS/LS-PuzzleComplete.wav",
     "docs/sfx/LS/LS-PuzzleFailure.wav",
     "docs/sfx/LS/UnlockDoor.wav",
-    "docs/sfx/LS/DoorFail.wav",
-    "docs/sfx/LS/MenuOut.wav",
-    "docs/sfx/LS/InventoryIn.wav",
-    "docs/sfx/LS/DoorClose1.wav",
     "sfx/LS/LovesOSSradio.md",
-    "docs/audio.md",
-    "sfx/LS",
-    "sfx",
-    "docs/sfx/LS/LovesOSSradio.ogg",
-    "docs/engineering.md",
-    "docs/music.md",
     "docs/index.md",
     "docs/dev.md",
     "docs/Music.md",
