@@ -1,8 +1,8 @@
 # *Music Production showcase*
 
-*Page still under development. Check back later!*
+Music is incredibly special to me. I've always been drawn to it, in some way. I play the piano specifically because I like to express feelings on it, effectively self taught in its ways, removed from any official instruction. I don't play to recount existing ideas on sheet music or to impress people with my skill. I experiment, refine, and express my ideas on those keys, simply because it makes me feel heard.
 
-Music is incredibly special to me. 
+Of course, I'm also heavily invested in game development. Music is a fun skill to have in that context, and games are very good place to draw motivation from. So over the last 8 years or so, I have familiarized myself with the digital tools and techniques necessary to make that music (which consequentially gave me a good starting point for my [sound design](audio) aspirations). Over time, that effort to 'practice' my craft eventually turned into all of this.
 
 Each audio file provided is the same used in the final project they were made for.
 
