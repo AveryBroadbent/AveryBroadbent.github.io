@@ -12,7 +12,7 @@ I handled and organized everything to do with sound in this project. That includ
 - Production spreadsheet of every needed sfx (approved by our project lead)
 - Designs of the sounds themselves
 - Recording, Sampling, & foley work
-- Audio balancing both out and out of engine
+- Audio balancing both in and out of engine
 - Audio implementation (+ variation & pitch shifting)
 - Custom audio system framework [(Engineering showcase)](engineering.md)
 - Music composition and production [(Music showcase)](music.md)
@@ -94,7 +94,7 @@ I mostly relied on pitch shifting to give these samples variation. Inventory sou
     <source src="/sfx/LS/InventoryOut.wav" type="audio/wav">
 </audio>
 
-Menu sounds I made by layering samples of myself taking sharp breaths over each other and cranking up the reverb + some light EQ balancing to emphasis the low frequencies. Pulling a little bit from darksouls with this one.
+Menu sounds I made by layering samples of myself taking sharp breaths over each other and cranking up the reverb + some light EQ balancing to emphasis the low frequencies. This approach is inspired somewhat by FromSoft's UI sounds as seen in Darksouls.
 
 `MenuIn.wav`<br>
 <audio controls preload="auto">
