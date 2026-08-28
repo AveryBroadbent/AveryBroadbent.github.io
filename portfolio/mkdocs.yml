@@ -6,6 +6,7 @@ nav:
         - Sound: audio.md
         - Music: music.md
         - Engineering: engineering.md
+    - Projects: https://corviscape.itch.io
 
 theme:
     name: simple-blog

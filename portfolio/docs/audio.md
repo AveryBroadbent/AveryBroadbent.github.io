@@ -1,6 +1,6 @@
 # *Audio Design Showcase*
 
-While not formerly trained through any institution, audio remains one of my biggest and most passionate skillsets in my professional career. An upbringing of highschool performance art combined with a love of detail gave me a well trained ear for the experience of sound, which in my years at university turned into a skillset I used for game development.
+While not formerly trained through any specific institution, audio remains one of my biggest and most passionate skillsets in my professional career. An upbringing of highschool performance art combined with a love of detail gave me a well trained ear for the experience of sound, which in my years at university turned into a skillset I had a knack for in game development.
 
 Each audio file provided is the same used in the final project they were made for.
 
@@ -107,7 +107,7 @@ Menu sounds I made by layering samples of myself taking sharp breaths over each 
 </audio>
 
 ### **-Foley interactions-**
-The game revolves around finding 3 particular objects to open the lab. As such, I felt it was important that each of those objects had a distinct sound for picking up and placing them. Each were made from foley samples I recorded. I'll let you guess what each represents.
+The game revolves around finding 3 particular objects to open the lab. As such, I felt it was important that each of those objects had a distinct sound for picking up and placing them. Each were made from foley samples I recorded.
 
 `SaltPickup.wav`<br>
 <audio controls preload="auto">
@@ -149,7 +149,7 @@ We needed a way to signify when a door was unlocked by a puzzle's completion, so
     <source src="/sfx/LS/GearsUnlock.wav" type="audio/wav">
 </audio>
 
-## [SPIN-MECH FURY](https://corviscape.itch.io/spinmechfury)
+## **[SPIN-MECH FURY](https://corviscape.itch.io/spinmechfury)**
 (July 2026)
 
 As this was a weeklong game jam project, sound was put off until the last few hours as we were more focused on gameplay for a majority of development. On that front, I generated some simple sounds using while [Jayliriah](https://jayliriah.itch.io/) handled music. Our game was supposed to feel shovel-ware-ish, so I found it fit to just make everything synth based.
