@@ -50,7 +50,7 @@ On top of that, the game is centered around surviving the onslaught for exactly 
 
 ## Other works
 
-I have a decent pile of other person work that isn't tied to any of these finished works. Some ideas, some I have eventual plans for. As a fun bonus, here's a track I arranged sometime in 2024 (?) entirely based off a piano piece of mine of the same name (just with a few extra instruments). While itself a bit outdated at this point, I think it's a really good example of the type of music I want to be making for games. Pieces that communicate feelings that words could not dream of describing.
+I have a decent pile of other personal work that isn't tied to any of these finished works. Some are just ideas, some I have eventual plans for. As a fun bonus, here's a track I arranged sometime in 2024 entirely based off a piano piece of mine of the same name (just with a few extra instruments). While itself a bit outdated at this point, I think it's a really good example of the type of music I want to be making for games. Pieces that communicate feelings that words could not dream of describing.
 
 `Forgotton Forest.mp3`<br>
 <audio controls preload="auto">
