@@ -10,6 +10,6 @@ nav:
 theme:
     name: simple-blog
     sidebar: true
+    navigation_depth: 3
     components:
         title: false
-    
