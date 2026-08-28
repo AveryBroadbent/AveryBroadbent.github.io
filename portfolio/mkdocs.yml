@@ -7,6 +7,7 @@ nav:
         - Music: music.md
         - Engineering: engineering.md
     - Projects: https://corviscape.itch.io
+    - Resume: https://docs.google.com/document/d/1d_0QiX2FPW-xLRDvMyDT5d80EV_7yD5B5CLCvRH1v9M/edit?usp=sharing
 
 theme:
     name: simple-blog
