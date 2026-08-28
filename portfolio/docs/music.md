@@ -2,7 +2,7 @@
 
 Music is incredibly special to me. I've always been drawn to it, in some way. I play the piano specifically because I like to express feelings on it, effectively self taught in its ways, removed from any official instruction. I don't play to recount existing ideas on sheet music or to impress people with my skill. I experiment, refine, and express my ideas on those keys, simply because it makes me feel heard.
 
-Of course, I'm also heavily invested in game development. Music is a fun skill to have in that context, and games are very good place to draw motivation from. So over the last 8 years or so, I have familiarized myself with the digital tools and techniques necessary to make that music (which consequentially gave me a good starting point for my [sound design](audio) aspirations). Over time, that effort to 'practice' my craft eventually turned into all of this.
+Of course, I'm also heavily invested in game development. Music is a fun skill to have in that context, and games are very good place to draw motivation from. So over the last 8 years or so, I have familiarized myself with the digital tools and techniques necessary to make that music (which consequentially gave me a good starting point for my [sound design](audio.md) aspirations). Over time, that effort to 'practice' my craft eventually turned into all of this.
 
 Each audio file provided is the same used in the final project they were made for.
 
@@ -15,14 +15,14 @@ The theme itself centers around a call & response pattern between the piano melo
 
 `What Hydes In the Doctor.ogg`<br>
 <audio controls preload="auto">
-    <source src="tracks/What-Hydes-In-the-Doctor.ogg" type="audio/ogg">
+    <source src="/tracks/What-Hydes-In-the-Doctor.ogg" type="audio/ogg">
 </audio>
 
 I additionally made a shorter, more sped up version of this theme for the trailer. This one gives more of an anticipatory feeling compared to the original track, which leaned more towards a feeling of tragedy originally. While putting together the trailer I made a point to match the pacing to this track as well as I could.
 
 `LS_Trailer2(shorter).ogg`<br>
 <audio controls preload="auto">
-    <source src="tracks/LS_Trailer2(shorter).ogg" type="audio/ogg">
+    <source src="/tracks/LS_Trailer2(shorter).ogg" type="audio/ogg">
 </audio>
 
 ## **[A Werewolf is a Werewolf](https://corviscape.itch.io/a-werewolf-is-a-werewolf)**
@@ -34,7 +34,7 @@ Looking back, I think I would use an EQ more on the horns to cut out those harde
 
 `Lunanine.mp3`<br>
 <audio controls preload="auto">
-    <source src="tracks/Lunanine.mp3" type="audio/mpeg">
+    <source src="/tracks/Lunanine.mp3" type="audio/mpeg">
 </audio>
 ## **[Pillow Fight: Siege of the Sectional](https://isabellewhite.itch.io/pillow-fight)**
 (Fall 2024)
@@ -45,7 +45,7 @@ On top of that, the game is centered around surviving the onslaught for exactly 
 
 `SiegeOfTheSectional.mp3`<br>
 <audio controls preload="auto">
-    <source src="tracks/SiegeOfTheSectional.mp3" type="audio/mpeg">
+    <source src="/tracks/SiegeOfTheSectional.mp3" type="audio/mpeg">
 </audio>
 
 ## Other works
@@ -54,9 +54,9 @@ I have a decent pile of other person work that isn't tied to any of these finish
 
 `Forgotton Forest.mp3`<br>
 <audio controls preload="auto">
-    <source src="tracks/Forgotton_Forest.mp3" type="audio/mpeg">
+    <source src="/tracks/Forgotton_Forest.mp3" type="audio/mpeg">
 </audio>
 
 Many of my personal tracks also have direct story connotations to each other, this one being no exception. Connections that can be heard through shared scales, keys, melodies, progressions, ect. 
 
-Sadly, most of my official work has only been in the context of projects that needed 1 single track. But if I ever get the proper chance to compose a full soundtrack for a game, you can expect that soundtrack to be woven into a complex tapestry of interconnected ideas reflective of the game it is intrinsically linked to.
+Sadly, most of my official work has only been in the context of projects that needed a single track. But if I ever get the proper chance to compose a full soundtrack for a game, you can expect that soundtrack to be woven into a complex tapestry of interconnected ideas reflective of the game it is intrinsically linked to.

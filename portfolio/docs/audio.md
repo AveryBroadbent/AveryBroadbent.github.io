@@ -1,6 +1,6 @@
 # *Audio Design Showcase*
 
-While not formerly trained through any specific institution, audio remains one of my biggest and most passionate skillsets in my professional career. An upbringing of highschool performance art combined with a love of detail gave me a well trained ear for the experience of sound, which in my years at university turned into a skillset I had a knack for in game development.
+While not formerly trained through any specific institution, audio remains one of my strongest and most passionate skillsets in my professional career. An upbringing of highschool performance art combined with a love of detail gave me a well trained ear for the experience of sound, which in my years at university turned into a skill I had a knack for in game development.
 
 Each audio file provided is the same used in the final project they were made for.
 
