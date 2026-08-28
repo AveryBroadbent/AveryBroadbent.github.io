@@ -11,12 +11,14 @@
             "id": "de43dcf2acea7822",
             "type": "leaf",
             "state": {
-              "type": "audio",
+              "type": "markdown",
               "state": {
-                "file": "docs/sfx/LS/DoorOpen2.wav"
+                "file": "docs/index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-audio",
-              "title": "DoorOpen2"
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ]
@@ -186,9 +188,11 @@
   },
   "active": "de43dcf2acea7822",
   "lastOpenFiles": [
-    "docs/audio.md",
-    "docs/engineering.md",
     "docs/music.md",
+    "docs/engineering.md",
+    "docs/index.md",
+    "docs/audio.md",
+    "docs/sfx/LS/DoorOpen2.wav",
     "docs/sfx/SM/Bumper.wav",
     "docs/sfx/SM/Charge.wav",
     "docs/sfx/SM/DASH.wav",
@@ -198,9 +202,7 @@
     "docs/sfx/LS/GearsUnlock.wav",
     "docs/sfx/LS/LS-PuzzleComplete.wav",
     "docs/sfx/LS/LS-PuzzleFailure.wav",
-    "docs/sfx/LS/UnlockDoor.wav",
     "sfx/LS/LovesOSSradio.md",
-    "docs/index.md",
     "docs/dev.md",
     "docs/Music.md",
     "docs/Audio (copy).md",
