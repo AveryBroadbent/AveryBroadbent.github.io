@@ -41,9 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -190,11 +188,23 @@
   },
   "active": "de43dcf2acea7822",
   "lastOpenFiles": [
-    "docs/index.md",
-    "docs/engineering.md",
-    "docs/dev.md",
-    "docs/music.md",
+    "docs/sfx/LS/GearsUnlock.wav",
+    "docs/sfx/LS/LS-PuzzleComplete.wav",
+    "docs/sfx/LS/LS-PuzzleFailure.wav",
+    "docs/sfx/LS/UnlockDoor.wav",
+    "docs/sfx/LS/DoorFail.wav",
+    "docs/sfx/LS/MenuOut.wav",
+    "docs/sfx/LS/InventoryIn.wav",
+    "docs/sfx/LS/DoorClose1.wav",
+    "sfx/LS/LovesOSSradio.md",
     "docs/audio.md",
+    "sfx/LS",
+    "sfx",
+    "docs/sfx/LS/LovesOSSradio.ogg",
+    "docs/engineering.md",
+    "docs/music.md",
+    "docs/index.md",
+    "docs/dev.md",
     "docs/Music.md",
     "docs/Audio (copy).md",
     "docs/Engineering.md",
